@@ -1,13 +1,3 @@
----
-title: 'CodeBook'
-author: "Adita Poddar"
-date: "25/03/2020"
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Code Book
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
