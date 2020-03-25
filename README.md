@@ -1,15 +1,4 @@
----
-title: "Getting-and-Cleaning-Data-Week-4-Assignment"
-author: "Adita Poddar"
-date: "25/03/2020"
-output: word_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Getting-and-Cleaning-Data-Week-4-Assignment
+# Getting-and-Cleaning-Data-Week-4-Assignment
 
 This repository containst the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 •First, download and unzip the data file into your R working directory.
